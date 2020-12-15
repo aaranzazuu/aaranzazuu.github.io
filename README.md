@@ -1,5 +1,6 @@
 # aaranzazuu.github.io
-Web Design Challenge - Latitude
+# Web Design Challenge - Latitude
+https://aaranzazuu.github.io/Web-Design-Challenge/
 This project is part of the Data Analytics and Visualization Bootcamp at University of Oregon.
 
 Project Intro/Objective
